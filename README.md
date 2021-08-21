@@ -25,7 +25,7 @@
 
 <h3>Overview</h3>
 
-- 🔭 I’m currently working on a MERN project
+- 🔭 I’m currently working on my updated portfolio
 - 🌱 I’m currently learning and getting more comfortable with MongoDb, ExpressJS, NodeJS, NestJS, etc
 - 😄 Pronouns: she/her
 
