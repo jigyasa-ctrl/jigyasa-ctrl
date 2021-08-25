@@ -26,7 +26,7 @@
 <h3>Overview</h3>
 
 - 🔭 I’m currently working on my updated portfolio
-- 🌱 I’m currently learning and getting more comfortable with MongoDb, ExpressJS, NodeJS, NextJS, etc
+- 🌱 I’m currently learning and getting more comfortable with MongoDb, ExpressJS, NodeJS, Jest, Enzyme etc
 - 😄 Pronouns: she/her
 
 <h3>Let's Connect</h3>
