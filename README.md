@@ -30,7 +30,7 @@
 - 😄 Pronouns: she/her
 
 <h3>Let's Connect</h3>
-<a href="https://www.linkedin.com/in/jigyasa-upadhyay-24963515b">LinkedIn</a> |  <a href="https://www.instagram.com/jigyasaupadhyayy/">Instagram</a> | <a href="https://jigyasaupadhyay.netlify.app/">Portfolio</a> | <a href="https://medium.com/@jigyasaupadhyay60/">Medium</a>
+<a href="https://www.linkedin.com/in/jigyasa-upadhyay-24963515b">LinkedIn</a> | <a href="https://jigyasaupadhyay.netlify.app/">Portfolio</a> | <a href="https://medium.com/@jigyasaupadhyay60/">Medium</a>
 
 
 ### Development
