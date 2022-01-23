@@ -25,7 +25,7 @@
 
 <h3>Overview</h3>
 
-- 🔭 I’m currently working on MERN stack Library Application
+- 🔭 I’m currently working on BookLook - MERN stack Application.
 - 🌱 I’m currently learning and getting more comfortable with MongoDb, ExpressJS, NodeJS, Jest, Enzyme etc
 - 😄 Pronouns: she/her
 
