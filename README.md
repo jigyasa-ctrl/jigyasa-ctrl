@@ -25,7 +25,7 @@
 
 <h3>Overview</h3>
 
-- 🔭 I’m currently learning on Blockchain development.
+- 🔭 I’m currently learning Blockchain development.
 - 🌱 I’m currently learning and getting more comfortable with Solidity, Ethereum, Truffle, etc.
 - 😄 Pronouns: she/her
 
