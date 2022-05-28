@@ -25,8 +25,8 @@
 
 <h3>Overview</h3>
 
-- 🔭 I’m currently working on BookLook - MERN stack Application.
-- 🌱 I’m currently learning and getting more comfortable with MongoDb, ExpressJS, NodeJS, Jest, Enzyme etc
+- 🔭 I’m currently learning on Blockchain development.
+- 🌱 I’m currently learning and getting more comfortable with Solidity, Ethereum, Truffle, etc.
 - 😄 Pronouns: she/her
 
 <h3>Let's Connect</h3>
