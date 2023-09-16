@@ -4,7 +4,7 @@
 <p align="center" ><img 
  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" width="40%"/></p>
  
- <p align="center">I'm currently working as a <strong>Frontend Developer</strong> @ <a href="https://active.ai/">Active.ai<a/>.<br/>I love working on Frontend stack and I'm currently learning backend development one commit at a time. <br>I like to develop projects and sketch in my free time<br></p><br/>
+ <p align="center">I'm currently working as a <strong>Frontend Developer</strong> @ <a href="https://active.ai/">Active.ai<a/>.<br/>I love working on Frontend stack. <br>I like to develop projects and sketch in my free time<br></p><br/>
 <h3>Technologies I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -25,8 +25,8 @@
 
 <h3>Overview</h3>
 
-- 🔭 I’m currently learning Blockchain development.
-- 🌱 I’m currently learning and getting more comfortable with Solidity, Ethereum, Truffle, etc.
+- 🔭 I’m currently learning Frontend Architecture.
+- 🌱 I’m currently learning and getting more comfortable with Testing libraries,Jest, Cypress etc.
 - 😄 Pronouns: she/her
 
 <h3>Let's Connect</h3>
