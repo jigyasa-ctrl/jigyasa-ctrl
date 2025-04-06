@@ -27,7 +27,7 @@
 <h3>Overview</h3>
 
 - 🔭 I’m currently learning System Design - Frontend Architecture.
-- 🌱 I’m currently learning and getting more comfortable with DSA, System Design concepts, etc.
+- 🌱 I’m currently learning and getting more comfortable with AI Tools and development using AI.
 - 😄 Pronouns: she/her
 
 <h3>Let's Connect</h3>
