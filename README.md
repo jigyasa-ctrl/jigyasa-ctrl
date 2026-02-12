@@ -4,7 +4,7 @@
 <p align="center" ><img 
  src="https://media1.tenor.com/images/505ddb5e0b0e8c3e96b66e1469ef47c1/tenor.gif?itemid=4903969" width="40%"/></p>
  
- <p align="center"><strong>Senior Frontend Developer</strong> @ <a href="https://metaforms.ai/">Metaforms<a/><br/>
+ 
 <h3>Technologies I code with: </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
